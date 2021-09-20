@@ -34,12 +34,12 @@ DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web 
 
 **Bulacan State University - BS in Information Technology (June 2014 – June 2018)**
 
-* GWA – 1.68 /5.0
+* GWA – 1.68/5.0
 
 # Projects
 
-* **Pesofolio** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
+* **[Pesofolio](/)** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
   Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
-* **It’s More Find in the Philippines** - Android game developed by my team and I as our final thesis
+* **[It’s More Find in the Philippines](/)** - Android game developed by my team and I as our final thesis
   at the University. I led the team of 5 people as the Project Manager and the Programmer.
   Technologies used: C#, Unity3D, Photoshop
