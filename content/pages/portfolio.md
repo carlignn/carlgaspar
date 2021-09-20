@@ -21,7 +21,7 @@ DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web 
 
 **Citco Group of Companies - IT Security Administrator (July 2018 – Present)**
 
-* 6 months of training of industry tools (Unix, Object Oriented Programming, Java, C#
+* 6 months of training of industry tools (Unix, Object Oriented Programming, Java, C#)
 * Administered, maintained and monitored the enterprise Data Loss Prevention (DLP) Solution for 6,000+ users
 * Monitored and responded to alerts generated from tool while working with vendors to render assistance in DLP Technology
 * Coordinate with change management regarding patches, upgrades and/or changes with the DLP Solution
