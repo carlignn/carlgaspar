@@ -168,7 +168,7 @@ const FormGroup = styled.div`
     font-family: inherit;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
-    background-color: #e4b8c7;
+    background-color: #e0e6ef;
     border: 2px solid transparent;
   }
 
