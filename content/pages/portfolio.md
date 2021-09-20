@@ -2,7 +2,6 @@
 title: Portfolio
 template: portfolio-template
 ---
-
 # Cyber Security Specialist
 
 Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure.
@@ -11,11 +10,11 @@ Persistent, detail-oriented Cyber Security and Information Security professional
 
 DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web Services, Linux, Nmap, Basic Networking, CICD, Object Oriented Programming, Git, Python, Web Development, HTML, CSS, Javascript, ReactJS, Kotlin, SQL, DynamoDB, Docker
 
-# Industry Certifications/Training
+# Industry Certifications/Trainin
 
-[![](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/d8c17809-0fb3-46b8-bc40-ade7b1df1bf0/public_url)
-<img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 * CompTIA Security+ (June 2021)
+
+  <img src="/media/static/media/securityplus-logo-certified-ce.png" alt="CompTIA Security+" style="height: 100px; width:100px;"/>
 * Symantec CloudSOC Administration R2 Course Training (March 2021)
 * Certified Information Systems Security Professional (Pending, January 2022)
 
