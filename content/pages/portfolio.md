@@ -10,11 +10,10 @@ Persistent, detail-oriented Cyber Security and Information Security professional
 
 DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web Services, Linux, Nmap, Basic Networking, CICD, Object Oriented Programming, Git, Python, Web Development, HTML, CSS, Javascript, ReactJS, Kotlin, SQL, DynamoDB, Docker
 
-# Industry Certifications/Trainin
+# Industry Certifications/Training
 
 * CompTIA Security+ (June 2021)
-
-  <img src="/media/static/media/securityplus-logo-certified-ce.png" alt="CompTIA Security+" style="height: 100px; width:100px;"/>
+  ![CompTIA Security+](/media/securityplus-logo-certified-ce.png)
 * Symantec CloudSOC Administration R2 Course Training (March 2021)
 * Certified Information Systems Security Professional (Pending, January 2022)
 

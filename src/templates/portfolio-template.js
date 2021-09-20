@@ -82,6 +82,14 @@ const PortfolioCopy = styled.div`
     white-space: pre-wrap;
     max-width: 100%;
   }
+  
+  span {
+    width: 100px !important;
+  }
+
+  img {
+    box-shadow: none !important;
+  }
 `;
 
 export const pageQuery = graphql`
