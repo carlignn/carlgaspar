@@ -12,8 +12,8 @@ DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web 
 
 # Industry Certifications/Training
 
-* CompTIA Security+ (June 2021)
-  ![CompTIA Security+](/media/securityplus-logo-certified-ce.png)
+* [CompTIA Security+ (June 2021)
+  ![CompTIA Security+](/media/securityplus-logo-certified-ce.png)](https://www.credly.com/badges/d8c17809-0fb3-46b8-bc40-ade7b1df1bf0)
 * Symantec CloudSOC Administration R2 Course Training (March 2021)
 * Certified Information Systems Security Professional (Pending, January 2022)
 
