@@ -5,6 +5,6 @@ tags:
   - invest
   - money
   - philippines
-description: I will guide you to investing from start to end.
+description: Try not to keep your eggs in a single basket.
 ---
-Hi, Invest
+Investing is buying something hoping that it will be worth more in the future.
