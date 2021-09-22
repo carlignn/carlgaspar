@@ -61,7 +61,9 @@ The highest official is elected separately from the **President** by popular vot
 * #### Cabinet Secretaries
 
   Cabinet members serve as advisors to the President. Cabinet members are nominated by the President and must be confirmed by the Commission of Appointments.Muslim Courts
-* #### Local government
+
+### Local government
+
 * #### Provincial/Regional Governor
 * #### Provincial/Regional Vice-Governor
 * #### City/Municipal Mayor
