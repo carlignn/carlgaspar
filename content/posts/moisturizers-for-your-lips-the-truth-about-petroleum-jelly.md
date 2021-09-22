@@ -3,6 +3,7 @@ title: Moisturizers for Your Lips | The Truth About Petroleum Jelly
 date: 2021-09-22 09:31
 tags:
   - skincare
+  - review
 description: "Three things: Humectant, emollient, and occlusive."
 ---
 It is very usual for a person to have a chapped and dry lips. So we tend to look for something that can resolve that problem. ***Petroleum Jelly or a Lip Balm (the ever so popular, Vaseline and ChapStick)*** - is one of the few things that would come to our mind. But mind you, there is a lot more into moisturizing. Here are the three classes of moisturizers:
