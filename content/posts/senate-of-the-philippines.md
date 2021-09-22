@@ -4,7 +4,8 @@ date: 2021-09-21 22:31
 tags:
   - government
   - philippines
-description: Research
+description: The Senate of the Philippines (Filipino: Senado ng Pilipinas,
+  also Mataas na Kapulungan ng Pilipinas or "upper chamber")
 ---
 The **Senate of the Philippines** (Filipino: *Senado ng Pilipinas*, also *Mataas na Kapulungan ng Pilipinas* or "upper chamber") is the upper house of the bicameral legislature of the Philippines, the Congress; the House of Representatives is the lower house. The Senate is composed of 24 senators who are elected at-large with the country as one district under plurality-at-large voting.
 
@@ -12,7 +13,7 @@ Senators serve six-year terms with a maximum of two consecutive terms, with half
 
 Aside from having its concurrence on every bill in order to be passed for the president's signature to become a law, the Senate is the only body that can concur with **treaties**, and can try **impeachment** cases.
 
-Article VI, Section 2 of the  provides that the Senate shall be composed of 24 senators who shall be elected at-large by the qualified voters of the , as may be provided by law.
+Article VI, Section 2 of the [1978 Philippine Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_Philippines) provides that the Senate shall be composed of 24 senators who shall be elected at-large by the qualified voters of the Philippines, as may be provided by law.
 
 The composition of the Senate is smaller in number as compared to the . The members of this chamber are elected at large by the entire electorate. The rationale for this rule intends to make the Senate a training ground for national leaders and possibly a springboard for the .
 
