@@ -27,8 +27,8 @@ So, in other words: **Occlusives keep the moisture until removed. Humectants br
 
 # **My Take**
 
-I used to apply Petroleum Jelly to my lips such as the ever popular Vaseline. However, as soon as I did a few research, I have found out that Humectant based moisturizer suits me better, I use the Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range) as it is not heavy on the lips and just work. I can use it in the morning and still be on my lips at night before reapplying it again prior to going to sleep.
+I used to apply Petroleum Jelly to my lips such as the ever popular Vaseline. However, as soon as I did a few research, I have found out that Humectant based moisturizer suits me better, I use the Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range). Bought it, tried it, and I can say that it is really good as it is not heavy on the lips, does not feel oily and just work. I can use it in the morning and still be on my lips at night before reapplying it again prior to going to sleep.
 
-Should I just use both to get the best of both worlds? Put Petroleum Jelly on top of Nuxe? You can try, I guess. My lips are on the larger side and adding more mass will feel heavier and annoying.
+Now, I have the option to just use both. Put Petroleum Jelly on top of Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range). You can try, I guess. My lips are on the bit larger side and adding more mass will feel heavier and annoying. I also really hate the oily feeling of the Petroleum Jelly. The Nuxe Paris Rêve de Miel feels like you are not wearing anything and natural to the feeling, at least.[](https://us.nuxe.com/reve-de-miel-range)
 
 For practical purposes petroleum jelly is the best moisturiser. However the best moisturiser really is one you like using and suits you well. Just remember that "expensive" does not equal "good moisturiser"!
