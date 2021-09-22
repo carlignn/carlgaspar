@@ -39,18 +39,19 @@ Has the authority to make laws, alter, and repeal them through the power vested 
   The House of Representatives shall be composed of not more than 250 members, unless otherwise fixed by law, who shall be elected from legislative districts apportioned among the provinces, cities, and the Metropolitan Manila area in accordance with the number of their respective inhabitants, and on the basis of a uniform and progressive ratio, and those who, as provided by law, shall be elected through a party-list system of registered national, regional, and sectoral parties or organizations. The lower house has the power to impeach certain officials, and must be the source of all money bills.
 * ### Legislative process
 
-  Congress of the Philippines is responsible for making enabling laws to make sure the spirit of the constitution is upheld in the country and, at times, amend or change the constitution itself. In order to craft laws, the legislative body comes out with two main documents: bills and resolutions.
+  Congress of the Philippines is responsible for making enabling laws to make sure the spirit of the constitution is upheld in the country and, at times, amend or change the constitution itself. In order to craft laws, the legislative body comes out with two main documents: **bills** and **resolutions**.
 
-  * #### Resolutions
+  #### Resolutions
 
-    Convey principles and sentiments of the Senate or the House of Representatives. These resolutions can further be divided into three different elements:
+  Convey principles and sentiments of the Senate or the House of Representatives. These resolutions can further be divided into three different elements:
 
-    * Joint resolutions - require the approval of both chambers of Congress and the signature of the President, and have the force and effect of a law if approved.
-    * Concurrent resolutions - used for matters affecting the operations of both chambers of Congress and must be approved in the same form by both houses, but are not transmitted to the President for his signature and therefore have no force and effect of a law.
-    * Simple resolutions - deal with matters entirely within the prerogative of one chamber of Congress, are not referred to the President for his signature, and therefore have no force and effect of a law.
-  * #### Bills
+  * Joint resolutions - require the approval of both chambers of Congress and the signature of the President, and have the force and effect of a law if approved.
+  * Concurrent resolutions - used for matters affecting the operations of both chambers of Congress and must be approved in the same form by both houses, but are not transmitted to the President for his signature and therefore have no force and effect of a law.
+  * Simple resolutions - deal with matters entirely within the prerogative of one chamber of Congress, are not referred to the President for his signature, and therefore have no force and effect of a law.
 
-    Bills are laws in the making. They pass into law when they are approved by both houses and the President of the Philippines. A bill may be vetoed by the President, but the House of Representatives may overturn a presidential veto by garnering a 2/3rds vote. If the President does not act on a proposed law submitted by Congress, it will lapse into law after 30 days of receipt.
+  #### Bills
+
+  Bills are laws in the making. They pass into law when they are approved by both houses and the President of the Philippines. A bill may be vetoed by the President, but the House of Representatives may overturn a presidential veto by garnering a 2/3rds vote. If the President does not act on a proposed law submitted by Congress, it will lapse into law after 30 days of receipt.
 
 ## Executive
 
