@@ -4,7 +4,7 @@ date: 2021-09-22 09:31
 tags:
   - skincare
   - review
-description: "Three things: Humectant, emollient, and occlusive."
+description: Humectant, emollient, and occlusive.
 ---
 It is very usual for a person to have a chapped and dry lips. So we tend to look for something that can resolve that problem. ***Petroleum Jelly or a Lip Balm (the ever so popular, Vaseline and ChapStick)*** - is one of the few things that would come to our mind. But mind you, there is a lot more into moisturizing. Here are the three classes of moisturizers:
 
@@ -30,6 +30,6 @@ So, in other words: **Occlusives keep the moisture until removed. Humectants br
 
 I used to apply Petroleum Jelly to my lips such as the ever popular Vaseline. However, as soon as I did a few research, I have found out that Humectant based moisturizer suits me better, I use the Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range). Bought it, tried it, and I can say that it is really good as it is not heavy on the lips, does not feel oily and just work. I can use it in the morning and still be on my lips at night before reapplying it again prior to going to sleep.
 
-Now, I have the option to just use both. Put Petroleum Jelly on top of Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range). You can try, I guess. My lips are on the bit larger side and adding more mass will feel heavier and annoying. I also really hate the oily feeling of the Petroleum Jelly. The Nuxe Paris Rêve de Miel feels like you are not wearing anything and natural to the feeling, at least.[](https://us.nuxe.com/reve-de-miel-range)
+Now, I have the option to just use both. Put Petroleum Jelly on top of Nuxe Paris Rêve de Miel[](https://us.nuxe.com/reve-de-miel-range). You can try, I guess. My lips are on the bit larger side and adding more mass will feel heavier and annoying. I also really hate the oily feeling of the Petroleum Jelly. The Nuxe Paris Rêve de Miel feels like you are not wearing anything and natural to the lips, at least.[](https://us.nuxe.com/reve-de-miel-range)
 
 For practical purposes petroleum jelly is the best moisturiser. However the best moisturiser really is one you like using and suits you well. Just remember that "expensive" does not equal "good moisturiser"!
