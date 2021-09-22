@@ -6,14 +6,7 @@ tags:
   - philippines
 description: Research
 ---
-Constitution of the Philippines 
-Constitutional reform in the Philippines
-
-List of Philippine Laws (Sources of Philippine Laws)
-
-Philippine legal codes (Read first)
-
-When we were young, there are times in school where there are topics or lessons that our brains won't even try to comprehend. In this blog, I will discuss what I learned reviewing the good, old, and really important topic - The Philippine Government. I learned that it is all based on the Philippine Constitution. (For more information about the Philippine Constitution. I also wrote a blog about that here.)
+When we were young, there are times in our studies where there are topics or lessons that our brain can't comprehend. In this blog, I will discuss what I learned reviewing the really important topic - The Philippine Government. I learned that it is all based on the Philippine Constitution.
 
 The Philippine Government (Filipino: Pamahalaan ng Pilipinas) is the national government of the Philippines. It is governed as unitary state under a presidential representative and democratic and a constitutional republic where the President function as both the head of state and the head of government of the country within a multiform multi-party system. The government has three (3) interdependent branches: the **legislative** branch, the **executive** branch and the **judicial** branch. The powers of the branches are vested by the Constitution of the Philippines.
 
@@ -34,7 +27,7 @@ Has the authority to make laws, alter, and repeal them through the power vested 
   * And a resident of the Philippines for not less than two years
 * ### House of Representatives (Lower Chamber)
 
-  (Filipino: Kapulungan ng mga Kinatawan ng Pilipinas) Is the lower house of the Congress of the Philippines. It is often commonly referred to as Congress and informally referred to as the Kamara. The district and sectoral representatives are elected for a term of three (3) years with a maximum of three (3) consecutive terms. Members of the House are officially styled as representative (Kinatawan) and sometimes informally called Congressmen or Congresswomen (mga kongresista).
+  (Filipino: Kapulungan ng mga Kinatawan ng Pilipinas) Is the lower house of the Congress of the Philippines. It is often commonly referred to as Congress and informally referred to as the **Kamara**. The district and sectoral representatives are elected for a term of three (3) years with a maximum of three (3) consecutive terms. Members of the House are officially styled as representative (Kinatawan) and sometimes informally called Congressmen or Congresswomen (mga kongresista).
 
   The House of Representatives shall be composed of not more than 250 members, unless otherwise fixed by law, who shall be elected from legislative districts apportioned among the provinces, cities, and the Metropolitan Manila area in accordance with the number of their respective inhabitants, and on the basis of a uniform and progressive ratio, and those who, as provided by law, shall be elected through a party-list system of registered national, regional, and sectoral parties or organizations. The lower house has the power to impeach certain officials, and must be the source of all money bills.
 * ### Legislative process
@@ -55,7 +48,7 @@ Has the authority to make laws, alter, and repeal them through the power vested 
 
 ## Executive
 
-The highest official is elected separately from the President by popular vote. The Vice President is first in line to succession if the President resigns, is impeached or dies. The Vice President is usually, though not always, a member of the president's cabinet. If there is a vacancy in the position of vice-president, the President will appoint any member of Congress of the Philippines (usually a party member) as the new Vice President. The appointment must then be validated by a three-fourths vote of the Congress of the Philippines.
+The highest official is elected separately from the **President** by popular vote. The **Vice President** is first in line to succession if the President resigns, is impeached or dies. *The Vice President is usually, though not always, a member of the president's cabinet.* If there is a vacancy in the position of vice-president, the President will appoint any member of Congress of the Philippines (usually a party member) as the new Vice President. The appointment must then be validated by a three-fourths vote of the Congress of the Philippines.
 
 ### National government
 
@@ -83,8 +76,9 @@ The highest official is elected separately from the President by popular vote. T
 
 ## Judicial
 
-Interprets the meaning of laws, applies laws to individual cases, and decides if laws violate the Constitution through the power vested in the **Supreme Court of the Philippines** (Filipino: Kataas-taasang Hukuman ng Pilipinas) or simply referred to by its colloquial name as **Korte Suprema**, is the highest court in the Philippines.
-(and lower courts established by law). It holds the power to settle controversies involving rights that are legally demandable and enforceable, and to determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government. The Supreme Court, which has a Chief Justice as its head and 14 Associate Justices, occupies the highest tier of the judiciary. The justices serve until the age of 70. The justices are appointed by the president on the recommendation of the Judicial and Bar Council of the Philippines.
+Interprets the meaning of laws, applies laws to individual cases, and decides if laws violate the Constitution through the power vested in the **Supreme Court of the Philippines** - (Filipino: Kataas-taasang Hukuman ng Pilipinas) or simply referred to by its colloquial name as **Korte Suprema**, is the highest court in the Philippines - and lower courts established by law.
+
+It holds the power to settle controversies involving rights that are legally demandable and enforceable, and to determine whether or not there has been a grave abuse of discretion amounting to lack or excess of jurisdiction on the part of any branch or instrumentality of the Government. The Supreme Court, which has a Chief Justice as its head and 14 Associate Justices, occupies the highest tier of the judiciary. The justices serve until the age of 70. The justices are appointed by the president on the recommendation of the Judicial and Bar Council of the Philippines.
 
 * ### Lower Collegiate Courts
 
