@@ -11,6 +11,12 @@ It's More Find in the Philippines is a find the hidden object game circling arou
 
 ![It's More Find in the Philippines](/media/feature-graphic.png "It's More Find in the Philippines Feature Graphic")
 
+Anotha one
+
+![It's More Find in the Philippines](/media/loading.png "It's More Find in the Philippines Loading")
+
+
+
 Link to images
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i" data-context="false" ><a href="//imgur.com/a/2cHNX0i"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
