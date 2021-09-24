@@ -21,11 +21,11 @@ It's More Find in the Philippines is a find the hidden object game circling arou
 
 ## The Team
 
-1. [Carl Christian Gaspar](mailto:carlgaspar@protonmail.com) - Programmer, Project Manager
-2. Ryan Genieto - Programmer
-3. Aeron Paul Delos Santos -  Documentalist
-4. Adrian De Jesus -  Designer
-5. Glenn Jeffrey Tayao - Artist
+1. [Carl Christian Gaspar](https://www.linkedin.com/in/carlignn/) - Programmer, Project Manager
+2. [Ryan Genieto](https://www.linkedin.com/in/ryan-genieto-16b83a160/) - Programmer
+3. [Aeron Paul Delos Santos](https://www.linkedin.com/in/apsds/) -  Documentalist
+4. [Adrian De Jesus](https://www.linkedin.com/in/adriandejesus93/) -  Designer
+5. [Glenn Jeffrey Tayao](https://www.linkedin.com/in/glenn-jeffrey-tayao-24a1121a0/) - Artist
 
 ## Technologies Used
 
