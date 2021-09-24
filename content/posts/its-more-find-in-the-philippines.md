@@ -15,11 +15,17 @@ It's More Find in the Philippines is a find the hidden object game circling arou
 
 It's More Find in the Philippines is a find the hidden object game circling around the Philippines. It features most of the popular items from each of the region of the country. The goal is to find all the items before the time ends. You can view all the items that you've find in a specific bag in the menu. There are also cheat codes which can help you throughout the game. This game was made by a team of 5 which I've led.
 
-Link to images
+## Screenshots
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It&#39;s More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-It's More Find in the Philippines is a find the hidden object game circling around the Philippines. It features most of the popular items from each of the region of the country. The goal is to find all the items before the time ends. You can view all the items that you've find in a specific bag in the menu. There are also cheat codes which can help you throughout the game. This game was made by a team of 5 which I've led.
+## The Team
+
+1. [Carl Christian Gaspar](mailto:carlgaspar@protonmail.com) - Programmer, Project Manager
+2. Ryan Genieto - Programmer
+3. Aeron Paul Delos Santos -  Documentalist
+4. Adrian De Jesus -  Designer
+5. Glenn Jeffrey Tayao - Artist
 
 ## Technologies Used
 
