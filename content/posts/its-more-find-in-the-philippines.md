@@ -17,9 +17,13 @@ It's More Find in the Philippines is a find the hidden object game circling arou
 
 ## Screenshots
 
+Screenshots uploaded from Imgur.
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It&#39;s More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## The Team
+
+The greatest team I have ever been part of. Given a chance to pick my teammates back in the University, I always ought to pick these guys to go and finish a project with me. We always come up with the most bizarre ideas and we always produce the best software that we can.
 
 1. [Carl Christian Gaspar](https://www.linkedin.com/in/carlignn/) - Programmer, Project Manager
 2. [Ryan Genieto](https://www.linkedin.com/in/ryan-genieto-16b83a160/) - Programmer
