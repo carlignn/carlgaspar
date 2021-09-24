@@ -6,15 +6,15 @@ tags:
   - project
   - philippines
 social_image: /media/feature-graphic.png
-description: Philippines
+description: A game developed by university students.
 ---
-It's More Find in the Philippines is an android-based 2D educational puzzle game. Over 15 locations around the Philippines and over 150 objects hidden in the game. It's More find in the Philippines lets you explore the country. The game brings fun while learning things from Philippines, with trivia. Users will be asked to look for precious objects related to certain places. User energy to play a level or a stage. Also, things found by the user saved on the diary together with their descriptions.
+It's More Find in the Philippines is a 2D android-based find the hidden object game. Over a hundred objects are hidden in the different regions of the Philippines. It features most of the known objects from every region which lets you explore the country as well as learn trivia provided by the game. It's More find in the Philippines lets you explore the country. Users will be asked to look for precious objects related to certain places. Users will consume energy to play a level or a stage. 
 
-The main mission of the game is to find all the hidden objects in each stage and beat the timer to earn more stars. Stars that will be obtained depending on how much time is left. The number of stars will determine if you can proceed to the next stage or not. You can view all the items that you've find in a specific bag in the menu. There are also cheat codes that might help you throughout the game.
+The main mission of the game is to find all the hidden objects in each stage and beat the timer to earn more stars. Stars are obtained depends on how much time is left after discovering all the hidden objects. This will determine if the player can proceed to the next stage. Items that are found will be saved on the diary in the menu together with their descriptions. Cheat codes are also provided that might help you throughout the game.
 
 ![It's More Find in the Philippines](/media/feature-graphic.png "It's More Find in the Philippines Feature Graphic")
 
-The game was uploaded and last updated to the Google Play Store at Jan 14, 2018. Though it was removed at Dec 18, 2020 due to lack of updates and maintenance, it was still made available for public via downloading the .apk and .obb file then manually installing it on an Android phone. However, due to the recent updates with Android Operating System, playing the game is not possible even if you do alter the game permissions. I know, Android OS is a weird place to be. Here are the screenshots from the playable game.
+The game was uploaded and last updated at the Google Play Store on Jan 14, 2018. However due to the lack of updates and maintenance the game was removed on Dec 18, 2020. After it was removed, the game was still made available to the public via downloading the .apk and .obb file then manually install it on an Android phone. However, playing the game is not possible due to the recent updates with the Android Operating System, even if you do alter the game permissions. I know, Android OS is a weird place to be.
 
 ## Screenshots
 
@@ -24,7 +24,7 @@ Screenshots of the game uploaded from Imgur.
 
 ## The Team
 
-The greatest team I have ever been part of in the university. We always come up with the most bizarre ideas and we always produce the best software/hardware that we can.
+Below are the greatest team I have been a part of in the university. We always come up with the most bizarre ideas and produce the best software/hardware that we can.
 
 1. [Carl Christian Gaspar](https://www.linkedin.com/in/carlignn/) - Programmer, Project Manager
 2. [Ryan Genieto](https://www.linkedin.com/in/ryan-genieto-16b83a160/) - Programmer
