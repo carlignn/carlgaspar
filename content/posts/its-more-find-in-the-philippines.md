@@ -15,15 +15,17 @@ It's More Find in the Philippines is a find the hidden object game circling arou
 
 It's More Find in the Philippines is a find the hidden object game circling around the Philippines. It features most of the popular items from each of the region of the country. The goal is to find all the items before the time ends. You can view all the items that you've find in a specific bag in the menu. There are also cheat codes which can help you throughout the game. This game was made by a team of 5 which I've led.
 
+The game was uploaded and last updated to the Google Play Store at Jan 14, 2018. Though it was removed at june due to lack of updates and maintenance, it was still made available for public via downloading the .apk and .obb file then manually installing it on Android. However, due to the recent updates with Android Operating System, you still won't be able to play it even if you do alter the game permissions. I know, Android OS is a weird place to be. Here are the screenshots from the playable game.
+
 ## Screenshots
 
-Screenshots uploaded from Imgur.
+Screenshots of the game uploaded from Imgur.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It&#39;s More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## The Team
 
-The greatest team I have ever been part of. Given a chance to pick my teammates back in the University, I always ought to pick these guys to go and finish a project with me. We always come up with the most bizarre ideas and we always produce the best software that we can.
+The greatest team I have ever been part of. We always come up with the most bizarre ideas and we always produce the best software/hardware that we can.
 
 1. [Carl Christian Gaspar](https://www.linkedin.com/in/carlignn/) - Programmer, Project Manager
 2. [Ryan Genieto](https://www.linkedin.com/in/ryan-genieto-16b83a160/) - Programmer
