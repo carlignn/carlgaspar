@@ -1,6 +1,6 @@
 ---
 title: It's More Find in the Philippines
-date: 2021-09-24 21:35
+date: 2021-09-25 14:42
 tags:
   - game
   - project
@@ -8,9 +8,13 @@ tags:
 social_image: /media/feature-graphic.png
 description: A game developed by university students.
 ---
-It's More Find in the Philippines is a 2D android-based find the hidden object game. Over a hundred objects are hidden in the different regions of the Philippines. It features most of the known objects from every region which lets you explore the country as well as learn trivia provided by the game. It's More find in the Philippines lets you explore the country. Users will be asked to look for precious objects related to certain places. Users will consume energy to play a level or a stage. 
+[It's More Find in the Philippines](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines) is a 2D android-based find the hidden object game. Over a hundred objects are hidden in the different regions of the Philippines. It features most of the known objects from every region which lets you explore the country as well as learn trivia provided by the game. It's More find in the Philippines lets you explore the country. Users will be asked to look for precious objects related to certain places. Users will consume energy to play a level or a stage. 
 
 The main mission of the game is to find all the hidden objects in each stage and beat the timer to earn more stars. Stars are obtained depends on how much time is left after discovering all the hidden objects. This will determine if the player can proceed to the next stage. Items that are found will be saved on the diary in the menu together with their descriptions. Cheat codes are also provided that might help you throughout the game.
+
+## Update
+
+As of Sep 25, 2021, the game became publicly available again on Google Play Store after submitting the updated forms to the Google Play Console. 
 
 ![It's More Find in the Philippines](/media/feature-graphic.png "It's More Find in the Philippines Feature Graphic")
 
