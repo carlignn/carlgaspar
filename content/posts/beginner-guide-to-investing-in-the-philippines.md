@@ -5,7 +5,26 @@ tags:
   - application
   - invest
   - philippines
-description: Track your investments with this portfolio tracker! Now LIVE on
-  Google Play Store!
+description: Track your investments for free with Pesofolio! LIVE now on Google Play Store!
 ---
-Investing is buying something hoping that it will be worth more in the future.
+Short Description
+
+Track your assets in the Philippine Stock Market LIVE with this handy tool.
+
+Long Description
+
+Pesofolio is an Android based portfolio tracker for the Philippine Stock Exchange. 
+
+
+
+## Technologies Used
+
+* Kotlin
+* Python
+* Amazon Web Services 
+
+  * IAM
+  * DynamoDB
+  * Lambda
+  * CloudWatch
+  * API Gateway
