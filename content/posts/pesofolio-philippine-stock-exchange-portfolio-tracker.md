@@ -17,7 +17,7 @@ The only portfolio tracker that tracks the Philippine Stock Exchange with the op
 * Customizable accounts for better tracking (account name and broker name).
 * Track percentage of each stock holding in your overall portfolio with chart for better visual representation.
 * Simply press the stock you want to add to your watchlist.
-* Keep track of the PSEI and other PH stock indices (Financials, Holding Firms, Industrial, Mining and Oil, Property, Services).
+* Keep track of the PSEI and other Philippine stock indices (Financials, Holding Firms, Industrial, Mining and Oil, Property, Services).
 * Convenient search and sort tool for filtering stocks.
 * Option to automatically compute the price of the stocks including its applicable fees as purchased.
 * Automatically applies the relevant fees to provide the total net worth of your portfolio.
