@@ -8,7 +8,7 @@ tags:
 description: Track your net worth with over 300 listed stocks in the Philippine
   Stock Market in REAL TIME with this FREE tool! LIVE now on Google Play Store!
 ---
-The only portfolio tracker that tracks the Philippine Stock Exchange with the option of multiple accounts to manage your assets better and easier. All you need to do is browse your stock of choice and Pesofolio will track that for you: gaining value, losing value, total net worth, percent increase, etc..
+The only portfolio tracker that tracks the Philippine Stock Exchange with the option of multiple accounts to manage your assets simpler, better and easier. All you need to do is browse your stock of choice and Pesofolio will track that for you: gaining value, losing value, total net worth, percent increase, etc..
 
 ## Stock Portfolio Tracking
 
@@ -18,7 +18,7 @@ The only portfolio tracker that tracks the Philippine Stock Exchange with the op
 * View allocation of each stock holding in your overall portfolio with pie charts
 * Keep track of the PSEI and other PH stock indices (Financials, Holding Firms, Industrial, Mining and Oil, Property, Services)
 * Handy search and sort tool for filtering stocks
-* Built-in PSE calculator which automatically computes for average price including relevant fees Stock Price 
+* Built-in PSE calculator which automatically computes for average price including relevant fees
 
 ## Exceptional User Experience
 
