@@ -5,6 +5,7 @@ tags:
   - application
   - invest
   - philippines
+social_image: /media/pesofolio.png
 description: Track your stock net worth with over 300 listed stocks in the
   Philippine Stock Exchange, REAL TIME with this FREE tool! LIVE now on Google
   Play Store!
@@ -28,6 +29,12 @@ The only portfolio tracker that tracks the Philippine Stock Exchange with the op
 * Adaptive theme
 * Modern and minimal
 * User-friendly design
+
+## Screenshots
+
+Screenshots of the game uploaded from Imgur.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RV2Mpka"><a href="//imgur.com/a/RV2Mpka"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Technologies Used
 
