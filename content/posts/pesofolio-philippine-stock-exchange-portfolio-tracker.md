@@ -50,3 +50,10 @@ Screenshots of the game uploaded from Imgur.
   * Lambda
   * CloudWatch
   * API Gateway
+
+## Discussions
+
+* [Twitter](https://twitter.com/carlignnn/status/1444986830504353792)
+* [Facebook (1)](https://www.facebook.com/carlignn/posts/417961916342250)
+* [](https://www.facebook.com/carlignn/posts/417961916342250)[Facebook (2)](https://www.facebook.com/411314775926112/posts/1767308420326734/)
+* [](https://www.facebook.com/411314775926112/posts/1767308420326734/)[Linkedin](https://www.linkedin.com/posts/carlignn_track-your-stock-net-worth-with-over-300-activity-6850758389144940544-bZpP)
