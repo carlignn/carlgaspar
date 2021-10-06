@@ -4,7 +4,7 @@ template: portfolio-template
 ---
 # Cyber Security Specialist
 
-Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Just in case you are interested, here is my [resume](https://www.linkedin.com/in/carlignn/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACH2_NABXxfw_YioxBUsEH3CN54vi66gN1I,1635469755779)/).
+Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Just in case you are interested, here is my [resume](https://drive.google.com/file/d/1zxxDDhL_w0Rqgkink0dVPc3kqtJW3HBE/view?usp=sharing). If the link does not work, please see my Linkedin profile on the footer. 
 
 # Core Competencies
 
