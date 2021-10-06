@@ -36,10 +36,10 @@ DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web 
 
 * GWA – 1.68/5.0
 
-# Projects
+# Projects[](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)
 
-* **[Pesofolio](/)** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
-  Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
-* **[It’s More Find in the Philippines](/)** - Android game developed by my team and I as our final thesis
+* **[Pesofolio](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
+  Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)[](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines)
+* **[It’s More Find in the Philippines](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines)** - Android game developed by my team and I as our final thesis
   at the University. I led the team of 5 people as the Project Manager and the Programmer.
   Technologies used: C#, Unity3D, Photoshop
