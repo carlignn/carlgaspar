@@ -38,6 +38,10 @@ const Header = () => {
           </HeaderNavListItem>
 
           <HeaderNavListItem>
+            <Link to="/tags/project">Projects</Link>
+          </HeaderNavListItem>
+
+          <HeaderNavListItem>
             <Link to="/contact">Contact</Link>
           </HeaderNavListItem>
         </HeaderNavList>
