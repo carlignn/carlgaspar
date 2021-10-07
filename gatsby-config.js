@@ -15,6 +15,7 @@ module.exports = {
       facebook: `carlignn`,
       twitch: `carlignn`,
       youtube: `Carl Gaspar`,
+      reddit: `carlignn`,
     },
     socialLinks: [
       {
@@ -44,6 +45,10 @@ module.exports = {
       {
         name: 'youtube',
         url: 'https://www.youtube.com/channel/UCby1WMTh4H_25W8JKJLDuOA',
+      },
+      {
+        name: 'reddit',
+        url: 'https://www.reddit.com/user/carlignn',
       },
       {
         name: 'tiktok',
