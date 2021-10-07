@@ -59,3 +59,4 @@ Application screenshots uploaded from Imgur.
 * [Facebook (1)](https://www.facebook.com/carlignn/posts/417961916342250)
 * [](https://www.facebook.com/carlignn/posts/417961916342250)[Facebook (2)](https://www.facebook.com/411314775926112/posts/1767308420326734/)
 * [](https://www.facebook.com/411314775926112/posts/1767308420326734/)[Linkedin](https://www.linkedin.com/posts/carlignn_track-your-stock-net-worth-with-over-300-activity-6850758389144940544-bZpP)
+* [Reddit](https://www.reddit.com/user/carlignn/comments/q32h2a/pesofolio_philippine_stock_exchange_portfolio/)
