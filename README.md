@@ -32,7 +32,7 @@ yarn install
 yarn start
 
 # 5. Start the build mode
-yarn  build
+yarn  build / yarn dev
 ```
 
 ## Configuration
