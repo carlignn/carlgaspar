@@ -1,7 +1,10 @@
 ---
 title: Why are you fighting? Can’t you see you’re all the same?
 date: 2021-08-09
-tags: [rick and morty, tv series]
+tags:
+  - rick and morty
+  - tv series
+description: Test
 ---
 
 Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Those guys are inside you building a piece of shit Ethan!! They're inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Those guys are inside you building a piece of shit Ethan!! They're inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Listen, Morty, I hate to break it to you but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
