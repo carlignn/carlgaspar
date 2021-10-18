@@ -58,7 +58,7 @@ const TwitchItem = () => {
       
       <PostListExcerpt
         dangerouslySetInnerHTML={{
-          __html: "Follow me, @carlignn everywhere. I play games occasionally."
+          __html: "Follow me @carlignn everywhere. I stream games occasionally."
         }}
       />
       <div className="twitch">
