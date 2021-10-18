@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 template: about-template
 profile_image: /media/me.jpg
 ---
