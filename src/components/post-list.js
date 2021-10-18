@@ -4,10 +4,32 @@ import { Link } from 'gatsby';
 import Tags from './tags';
 
 const PostList = ({ posts }) => {
-  const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead }) => {
+  var firstInstance = true
+  const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead, index }) => {
     const { title, tags, date, description } = frontmatter;
     const { slug } = fields;
 
+    console.log(firstInstance)
+
+    if (firstInstance) {
+      firstInstance = false
+      return (
+        <>
+          <TwitchItem/>
+          <PostListItem
+            key={slug}
+            tags={tags}
+            title={title}
+            date={date}
+            slug={slug}
+            timeToRead={timeToRead}
+            description={description}
+            excerpt={excerpt}
+          />
+        </>
+      )
+    }
+    
     return (
       <PostListItem
         key={slug}
@@ -26,6 +48,37 @@ const PostList = ({ posts }) => {
 };
 
 export default PostList;
+
+const TwitchItem = () => {
+  return (
+    <StyledPostListItem>
+      <Tags tags={["Live", "Twitch"]} />
+
+      <PostListTitle>
+        <Link to={"slug"}>{"Check me out on Twitch"}</Link>
+      </PostListTitle>
+      
+      <div className="twitch">
+        <div className="twitch-video" align="center">
+          <iframe
+            src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
+            frameborder="0"
+            scrolling="no"
+            autoplay="true"
+            height="100%"
+            width="100%"
+            allowfullscreen="true">
+          </iframe>
+        </div>
+      </div>
+      <PostListMeta>
+        <span>Just now</span>
+
+        <span>Until further notice</span>
+      </PostListMeta>
+  </StyledPostListItem>
+  );
+};
 
 const PostListItem = ({
   title,
