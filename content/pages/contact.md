@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: Contact
 template: contact-template
 ---
 # Get in Touch.
