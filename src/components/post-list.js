@@ -9,7 +9,7 @@ const PostList = ({ posts }) => {
     const { title, tags, date, description } = frontmatter;
     const { slug } = fields;
 
-    if (firstInstance) {
+    if (firstInstance) { // Display Twitch info as the first instance
       firstInstance = false
       return (
         <>
