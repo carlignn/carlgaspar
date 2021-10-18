@@ -10,7 +10,7 @@ description: Sampling
 <div class="twitch">
   <div class="twitch-video">
     <iframe
-      src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=carlignn.sh"
+      src="https://player.twitch.tv/?autoplay=false&channel=sinatraa&parent=carlgaspar.com"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true"
@@ -22,7 +22,7 @@ description: Sampling
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/carlignn/chat?parent=carlignn.sh"
+      src="https://www.twitch.tv/embed/sinatraa/chat?parent=carlgaspar.com"
       height="100%"
       width="100%">
     </iframe>
