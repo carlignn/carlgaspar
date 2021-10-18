@@ -21,9 +21,10 @@ const HomePage = ({ data }) => {
       <div className="twitch">
         <div className="twitch-video" align="center">
           <iframe
-            src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com"
+            src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
             frameborder="0"
             scrolling="no"
+            autoplay="true"
             allowfullscreen="true"
             height="100%"
             width="80%">
