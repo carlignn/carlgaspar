@@ -53,7 +53,7 @@ const TwitchItem = () => {
       <Tags tags={["Live", "Twitch"]} />
 
       <PostListTitle>
-        <Link to={"slug"}>{"Check me out on Twitch"}</Link>
+        Check me out on Twitch
       </PostListTitle>
       
       <div className="twitch">
