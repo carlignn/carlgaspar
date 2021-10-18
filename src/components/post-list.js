@@ -53,13 +53,18 @@ const TwitchItem = () => {
       <Tags tags={["Live", "Twitch"]} />
 
       <PostListTitle>
-        Check me out on Twitch
+        Follow me on Twitch
       </PostListTitle>
       
+      <PostListExcerpt
+        dangerouslySetInnerHTML={{
+          __html: "Follow me, @carlignn everywhere. I play games occasionally."
+        }}
+      />
       <div className="twitch">
         <div className="twitch-video" align="center">
           <iframe
-            src="https://player.twitch.tv/?autoplay=false&channel=lilypichu&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
+            src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
             frameborder="0"
             scrolling="no"
             autoplay="true"
@@ -69,6 +74,7 @@ const TwitchItem = () => {
           </iframe>
         </div>
       </div>
+      
       <PostListMeta>
         <span>Just now</span>
 
