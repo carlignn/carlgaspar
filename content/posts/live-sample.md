@@ -7,21 +7,10 @@ tags:
 description: Sampling
 ---
 
-<script src="https://embed.twitch.tv/embed/v1.js"></script>    
-<script type="text/javascript">
-      new Twitch.Embed("twitch-embed", {
-        width: 854,
-        height: 480,
-        channel: "carlignn",
-        // Only needed if this page is going to be embedded on other websites
-        parent: ["carlgaspar.com", "carlgaspar.netlify.app"]
-      });
-    </script>
-
 <div class="twitch">
   <div class="twitch-video">
     <iframe
-      src="https://player.twitch.tv/?channel=phil_nash&parent=philna.sh&autoplay=false"
+      src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=carlignn.sh"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true"
@@ -33,7 +22,7 @@ description: Sampling
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/phil_nash/chat?parent=philna.sh"
+      src="https://www.twitch.tv/embed/carlignn/chat?parent=carlignn.sh"
       height="100%"
       width="100%">
     </iframe>
