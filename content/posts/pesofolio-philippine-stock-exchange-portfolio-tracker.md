@@ -3,7 +3,6 @@ title: Pesofolio - Philippine Stock Exchange Portfolio Tracker
 date: 2021-09-30 15:04
 tags:
   - application
-  - invest
   - philippines
   - project
 social_image: /media/pesofolio.png
