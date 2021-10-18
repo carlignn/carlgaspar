@@ -59,7 +59,7 @@ const TwitchItem = () => {
       <div className="twitch">
         <div className="twitch-video" align="center">
           <iframe
-            src="https://player.twitch.tv/?autoplay=false&channel=sinatraa&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
+            src="https://player.twitch.tv/?autoplay=false&channel=aceu&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
             frameborder="0"
             scrolling="no"
             autoplay="true"
