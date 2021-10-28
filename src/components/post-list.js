@@ -4,29 +4,9 @@ import { Link } from 'gatsby';
 import Tags from './tags';
 
 const PostList = ({ posts }) => {
-  var firstInstance = true
   const PostList = posts.map(({ frontmatter, fields, excerpt, timeToRead, index }) => {
     const { title, tags, date, description } = frontmatter;
     const { slug } = fields;
-
-    if (firstInstance) { // Display Twitch info as the first instance
-      firstInstance = false
-      return (
-        <>
-          <TwitchItem/>
-          <PostListItem
-            key={slug}
-            tags={tags}
-            title={title}
-            date={date}
-            slug={slug}
-            timeToRead={timeToRead}
-            description={description}
-            excerpt={excerpt}
-          />
-        </>
-      )
-    }
     
     return (
       <PostListItem
@@ -47,43 +27,6 @@ const PostList = ({ posts }) => {
 
 export default PostList;
 
-const TwitchItem = () => {
-  return (
-    <StyledPostListItem>
-      <Tags tags={["Live", "Twitch"]} />
-
-      <PostListTitle>
-        Follow me on Twitch
-      </PostListTitle>
-      
-      <PostListExcerpt
-        dangerouslySetInnerHTML={{
-          __html: "Follow me @carlignn everywhere. I stream games occasionally."
-        }}
-      />
-      <div className="twitch">
-        <div className="twitch-video" align="center">
-          <iframe
-            src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlilfy.app&parent=www.carlgaspar.netlify.app"
-            frameborder="0"
-            scrolling="no"
-            autoplay="true"
-            height="100%"
-            width="100%"
-            allowfullscreen="true">
-          </iframe>
-        </div>
-      </div>
-      
-      <PostListMeta>
-        <span>Just now</span>
-
-        <span>Until further notice</span>
-      </PostListMeta>
-  </StyledPostListItem>
-  );
-};
-
 const PostListItem = ({
   title,
   date,
@@ -98,17 +41,39 @@ const PostListItem = ({
       <Tags tags={tags} />
 
       <PostListTitle>
-        <Link to={slug}>{title}</Link>
+        {title === "Follow Me On Twitch" ? title : <Link to={slug}>{title}</Link>}
+        
       </PostListTitle>
       <PostListExcerpt
         dangerouslySetInnerHTML={{
           __html: description || excerpt,
         }}
       />
-      <PostListMeta>
-        <span>{date}</span>
 
-        <span>{timeToRead} mins</span>
+      { // if Twitch details should be displayed as a blog
+        title === "Follow Me On Twitch" ?
+          <div className="twitch">
+            <div className="twitch-video" align="center">
+              <iframe
+                src="https://player.twitch.tv/?autoplay=false&channel=carlignn&parent=www.carlgaspar.com&parent=carlgaspar.com&parent=carlgaspar.netlify.app&parent=www.carlgaspar.netlify.app"
+                title="Twitch"
+                frameborder="0"
+                scrolling="no"
+                autoplay="true"
+                height="100%"
+                width="100%"
+                allowfullscreen="true">
+              </iframe>
+            </div>
+          </div>
+          :
+          ""
+      }
+      
+      <PostListMeta>
+        <span>{title === "Follow Me On Twitch" ? "Just now" : date}</span>
+
+        <span>{title === "Follow Me On Twitch" ? "Until further notice" : timeToRead + " mins"}</span>
       </PostListMeta>
     </StyledPostListItem>
   );
