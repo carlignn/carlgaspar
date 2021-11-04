@@ -92,4 +92,16 @@ For many of us that works in Information Security, many of us sees risk as a neg
   * the Nation
 
   through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service
-*
+* **Threat Source** - element which alone, or in combination, has the potential to give rise to risk
+* **Vulnerability** - weakness in:
+
+  * an information system
+  * system security procedures
+  * internal controls
+  * implementation
+
+  that could be exploited by a threat source
+* **Impact** - outcome of an event
+* **Likelihood** - chance of something happening
+* **Residual Risk** - risk that remains after risk treatment (after mitigating the risk down to an acceptable level)
+* **Risk Acceptance** - the level of risk of the management is willing to tolerate
