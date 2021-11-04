@@ -144,6 +144,10 @@ p, li {
     max-width: none;
 }
 
+li > p {
+    margin: 0 !important;
+} 
+
 .gatsby-resp-image-wrapper {
     margin-left: 0 !important;
 }
