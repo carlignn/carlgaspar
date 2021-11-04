@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com/carlignnn',
+        url: 'https://twitter.com/carlignn_',
       },
       {
         name: 'instagram',
