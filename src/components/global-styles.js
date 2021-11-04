@@ -144,7 +144,7 @@ p, li {
     max-width: none;
 }
 
-li > p {
+article > section > ul > li > p {
     margin: 0 !important;
 } 
 
