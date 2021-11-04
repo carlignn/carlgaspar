@@ -6,4 +6,4 @@ tags:
   - twitch
 description: Follow me @carlignn everywhere. I stream games occasionally.
 ---
-Hi
+...
