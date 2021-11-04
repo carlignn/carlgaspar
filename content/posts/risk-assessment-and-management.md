@@ -58,12 +58,38 @@ For many of us that works in Information Security, many of us sees risk as a neg
 
 ## Elements of Risk Management
 
-* Policy - What seems to be the most important to the organization
-* Resources - People, budget
-* Accountability - Who is the owner of the risk
-* Integration into business  processes - Integrating a risk culture to the business process
-* Reporting structure - Risk register, risk assessment report, audit report
+* **Policy** - what seems to be the most important to the organization
+* **Resources** - people, budget
+* **Accountability** - who is the owner of the risk
+* **Integration into business  processes** - integrating a risk culture to the business process
+* **Reporting structure** - risk register, risk assessment report, audit report
 
 
 
 **Risk management** works effectively when it is implemented based on a framework adapted to the needs of the organization and consistently applied.
+
+
+
+## Risk Management Terminologies
+
+* **Assets** - an item or property of value to its owner
+
+  * Tangible - could be cash or money
+  * Intangible - could be your reputation, name, morale
+* **Asset Value** - the value of an asset is often affected by both internal and external factors
+
+  * Value to business operations - example: the value of a hard drive failure effect on the business
+  * Liability - breach or loss of data would be crucial
+  * Value to an adversary - information of the company could be valuable to the competitors
+  * Intellectual Property (IP) - patents, trademarks, copyrights, trade secrets
+* **IT Assets** - a major application, general support system, high impact program, physical plant, mission critical system, personnel, equipment, or a logically related group of systems
+* **Threats** - any circumstance or event with the potential to adversely impact:
+
+  * organizational operations,
+  * organizational assets,
+  * individuals,
+  * other organizations, or
+  * the Nation
+
+  through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service
+*
