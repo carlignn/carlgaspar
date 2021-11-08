@@ -19,8 +19,6 @@ For many of us that works in Information Security, many of us sees risk as a neg
 * **NIST SP800-30 Rev 1** - Guide for Conducting Risk Assessment
 * **HTRA** - Harmonized Threat and Risk Assessment
 
-
-
 ## Risk Management begins with:
 
 * Knowing what has to be protected
@@ -32,15 +30,11 @@ For many of us that works in Information Security, many of us sees risk as a neg
   * Risk acceptance
   * Risk tolerance
 
-
-
 ## Risk Relative to Information Security Management
 
 **Information Security Risk** is a potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization.
 
 ![Risk Relative to Information Security Management](/media/risk-relative-to-information-security-management.png "Risk Relative to Information Security Management")
-
-
 
 ## Implementation of Risk Management
 
@@ -54,8 +48,6 @@ For many of us that works in Information Security, many of us sees risk as a neg
 * Monitor and review the risk framework
 * Continuously improve the risk framework
 
-
-
 ## Elements of Risk Management
 
 * **Policy** - what seems to be the most important to the organization
@@ -64,11 +56,7 @@ For many of us that works in Information Security, many of us sees risk as a neg
 * **Integration into business  processes** - integrating a risk culture to the business process
 * **Reporting structure** - risk register, risk assessment report, audit report
 
-
-
 **Risk management** works effectively when it is implemented based on a framework adapted to the needs of the organization and consistently applied.
-
-
 
 ## Risk Management Terminologies
 
@@ -105,3 +93,7 @@ For many of us that works in Information Security, many of us sees risk as a neg
 * **Likelihood** - chance of something happening
 * **Residual Risk** - risk that remains after risk treatment (after mitigating the risk down to an acceptable level)
 * **Risk Acceptance** - the level of risk of the management is willing to tolerate
+
+
+
+Source: Risk Assessment and Management by Kevin Henry on Plural Sight - https://app.pluralsight.com/course-player?clipId=03ee03c0-36e7-48e3-94ef-81da5ff1af8c
