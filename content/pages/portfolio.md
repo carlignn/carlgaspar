@@ -4,20 +4,30 @@ template: portfolio-template
 ---
 # Cyber Security Specialist
 
-Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Just in case you are interested, here is my [resume](https://drive.google.com/file/d/1zxxDDhL_w0Rqgkink0dVPc3kqtJW3HBE/view?usp=sharing). Link does not work? Please see my Linkedin profile on the footer. 
+Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. With knowledge in risk management, viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter.
 
 # Core Competencies
 
-DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web Services, Linux, Nmap, Basic Networking, CICD, Object Oriented Programming, Git, Python, Web Development, HTML, CSS, Javascript, ReactJS, Kotlin, SQL, DynamoDB, Docker
+Security Assessment, Security Planning, Vulnerability Scanning: Nessus and Nmap, Risk Assessments, DLP Solution Maintenance & Monitoring, Cloud Access Security Broker, Amazon Web Services, Linux, Basic Networking, CICD, Object Oriented Programming, Git, Python, Web Development, HTML, CSS, Javascript, ReactJS, Kotlin, SQL, DynamoDB, Docker
 
 # Industry Certifications/Training
 
 * [CompTIA Security+ (June 2021)
   ![CompTIA Security+](/media/securityplus-logo-certified-ce.png)](https://www.credly.com/badges/d8c17809-0fb3-46b8-bc40-ade7b1df1bf0)
 * Symantec CloudSOC Administration R2 Course Training (March 2021)
-* Certified Information Systems Security Professional (Pending, January 2022)
 
 # Experience
+
+**Ivoclar - IT Security Analyst** (January 2022 – April 2022)
+
+* Performed Vulnerability Scans on networks and specific machines that could produce potential threats based on various security information media
+* Performed Email Phishing Campaigns for different demographic of users
+* Identified and evaluated potential threats and vulnerabilities detected by the Secure Access Service Edge (Zscaler)
+* Documented and maintained IT Security processes and made recommendations for improvements
+* Performed tasks as per global standards such as ISO 27001 including continuous measurement of certain metrics for the Measurement Programs for ISMS
+* Processed workflows for ticket requests coming from different IT teams
+* Conduct in-depth security risk assessments and compliance checks to identify the corporate wide risk status
+* Led the planning and implementation of the threat intelligence project
 
 **Citco Group of Companies - IT Security Administrator (July 2018 – Present)**
 
