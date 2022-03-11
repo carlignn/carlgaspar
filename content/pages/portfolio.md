@@ -4,7 +4,7 @@ template: portfolio-template
 ---
 # Cyber Security Specialist
 
-Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. With knowledge in risk management, viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter.
+Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. With knowledge in risk management, viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](https://drive.google.com/file/d/1zxxDDhL_w0Rqgkink0dVPc3kqtJW3HBE/view?usp=sharing).
 
 # Core Competencies
 
