@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Home'
+title: Home
+template: index-template
 ---
+\#CARL GASPAR
 
-#CARL GASPAR
-
-IT Security Administrator, Sec+ | Developer
+Cybersecurity Officer, Sec+ | Developer
