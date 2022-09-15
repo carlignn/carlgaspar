@@ -94,4 +94,6 @@ For many of us that works in Information Security, many of us sees risk as a neg
 * **Residual Risk** - risk that remains after risk treatment (after mitigating the risk down to an acceptable level)
 * **Risk Acceptance** - the level of risk of the management is willing to tolerate
 
-Source: Risk Assessment and Management by Kevin Henry on Pluralsight - https://app.pluralsight.com/course-player?clipId=03ee03c0-36e7-48e3-94ef-81da5ff1af8c
+## Sources
+
+* [Risk Assessment and Management by Kevin Henry on Pluralsight](https://app.pluralsight.com/course-player?clipId=03ee03c0-36e7-48e3-94ef-81da5ff1af8c)
