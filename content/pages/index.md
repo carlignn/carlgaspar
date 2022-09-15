@@ -2,6 +2,6 @@
 title: Home
 template: index-template
 ---
-\#CARL GASPAR
+# CARL GASPAR
 
 Cybersecurity Officer, Sec+ | Developer
