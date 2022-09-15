@@ -4,7 +4,7 @@ date: 2021-11-09 14:45
 tags:
   - socials
   - twitter
-description: https://twitter.com/carlignn_
+description: Cybersecurity Officer, Developer, Minimalist, Gamer. I'm @carlignn everywhere.
 ---
 <!--StartFragment-->
 
