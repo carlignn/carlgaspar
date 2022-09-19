@@ -12,7 +12,7 @@ description: Looking to scan an IP or a domain? You can't just spin up a Kali
 
 ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but I found it in /etc directory.
 
-### Step 1
+#### Step 1
 
 What you want to do is edit the configuration file. I will be using vim, feel free to use any text editor as you would prefer.
 
@@ -189,11 +189,11 @@ socks4         127.0.0.1 9050
 
 You'll see all the chains that you can select from, how they works are described and explained properly. 
 
-### Step 2
+#### Step 2
 
 Uncomment the dynamic_chain (line 10) and comment static_chain (line 18) by using the pound (#) sign. This way, the connection will proceed to the next address in case it failed.
 
-### Step 3
+#### Step 3
 
 Uncomment the default IP for Tor (line 161) then add your proxies (online search: free proxy servers list) below it. You can see the example at line 145. It is advisable to add more than one proxy. Save the file afterwards.
 
