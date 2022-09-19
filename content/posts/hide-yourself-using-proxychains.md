@@ -8,17 +8,19 @@ description: Looking to scan an IP or a domain? You can't just spin up a Kali
   Linux and Nmap here and there. Because doing so, will expose yourself to the
   target that you are scanning.
 ---
-## ProxyChains
+## Configuring ProxyChains
 
-ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but found it in /etc directory.
+ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but I found it in /etc directory.
 
-What you want to do is edit the configuration file.
+### Step 1
+
+What you want to do is edit the configuration file. I will be using vim, feel free to use any text editor as you would prefer.
 
 ```shell
 sudo vim /etc/proxychains4.conf
 ```
 
-This is what the configuration file would look like:
+This is what the configuration file would look like. It may look like a lot, but you only need to configure a few things.
 
 ```shell
 # proxychains.conf  VER 4.x
@@ -185,6 +187,27 @@ socks4         127.0.0.1 9050
 
 ```
 
-Here you'll see all the chains that you can select from, how they works are described and explained properly. 
+You'll see all the chains that you can select from, how they works are described and explained properly. 
 
-ncomment the dynamic_chain (line 10) and comment static_chain (line 18).
+### Step 2
+
+Uncomment the dynamic_chain (line 10) and comment static_chain (line 18) by using the pound (#) sign. This way, the connection will proceed to the next address in case it failed.
+
+### Step 3
+
+Uncomment the default IP for Tor (line 161) then add your proxies (online search: free proxy servers list) below it. You can see the example at line 145. It is advisable to add more than one proxy. Save the file afterwards.
+
+## Run ProxyChains
+
+This is how you run ProxyChains:
+
+```shell
+proxychains servicename
+```
+
+More example:
+
+```shell
+proxychains firefox google.com
+proxychains nmap kali.org
+```
