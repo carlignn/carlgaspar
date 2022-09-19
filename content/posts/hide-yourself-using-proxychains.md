@@ -205,7 +205,7 @@ This is how you run ProxyChains:
 proxychains servicename
 ```
 
-More example:
+Example:
 
 ```shell
 proxychains firefox google.com
