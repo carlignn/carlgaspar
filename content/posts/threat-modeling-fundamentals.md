@@ -5,10 +5,10 @@ tags:
   - security
   - devsecops
   - blueteam
-  - write-up
+  - writeup
 description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans
 ---
-## The What, Why, Who and When
+## Threat Modeling, the What, Why, Who and When
 
 ### W﻿hat Is Threat Modeling
 
@@ -42,7 +42,7 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 * V﻿ulnerability scanning
 * P﻿enetration testing
 
-\*﻿ Threat modeling is a collaborative and repeatable process
+\*﻿ Threat modeling is a collaborative and repeatable process.
 
 ### Who Should Perform Threat Modeling
 
@@ -59,11 +59,11 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 * R﻿equirements phase
 * D﻿esign phase
 
-\*﻿ In general, early on in the process
+\*﻿ In general, early on in the process.
 
-## Right Approach
+### Choosing the Right Approach
 
-#### A﻿sset-centric Approach
+### A﻿sset-centric Approach
 
 A﻿lso called **Risk-centric Approach.**
 
@@ -76,8 +76,30 @@ E﻿xamples:
 * P﻿ASTA - Process for Attack Simulation and Analysis
 * T﻿RIKE - dated threat modeling technology with accompanying tool
 
-#### A﻿ttacker-centric Approach
-
-#### A﻿pplication-centric Approach
-
 > I﻿f you don't know what to protect, how do you know you're protecting it?
+
+### A﻿ttacker-centric Approach
+
+1. C﻿reate a list of threat actors
+
+   1. M﻿otive
+   2. M﻿eans
+   3. O﻿pportunity
+2. C﻿reate a list of threats
+
+### A﻿pplication-centric Approach
+
+1. D﻿raw a diagram of the application
+
+   * F﻿or example a Data Flow Diagram
+2. L﻿ist threats for each elements
+
+   * S﻿TRIDE
+   * O﻿WASP Top 10
+3. R﻿ank threats using classification model
+
+\* C﻿hoose approach based on skillset.
+
+## C﻿hoosing the Right Methodology
+
+### P﻿ASTA
