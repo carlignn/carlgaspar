@@ -8,8 +8,6 @@ tags:
   - writeup
 description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans.
 ---
-
-
 ## Threat Modeling, the What, Why, Who and When
 
 ### W﻿hat Is Threat Modeling
@@ -63,7 +61,7 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 
 \*﻿ In general, early on in the process.
 
-### Choosing the Right Approach
+## Choosing the Right Approach
 
 ### A﻿sset-centric Approach
 
@@ -170,8 +168,7 @@ E﻿xamples:
 * T﻿argeted towards agile companies
 * S﻿calable
 
-####  ﻿
+## ﻿Notes
 
-\*Best methodology depends on team, ﻿organization and goal
-
-\*Recommendations: ﻿Asset-centric: PASTA && ﻿Application-centric: Microsoft Threat Modeling
+* Best methodology depends on team, ﻿organization and goal
+* Recommendations: ﻿Asset-centric: PASTA && ﻿Application-centric: Microsoft Threat Modeling
