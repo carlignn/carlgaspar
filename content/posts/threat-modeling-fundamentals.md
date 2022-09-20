@@ -73,7 +73,7 @@ A﻿lso called **Risk-centric Approach.**
 
 E﻿xamples:
 
-* P﻿ASTA - Process for Attack Simulation and Analysis
+* P﻿ASTA - Process for Attack Simulation and Threat Analysis
 * T﻿RIKE - dated threat modeling technology with accompanying tool
 
 > I﻿f you don't know what to protect, how do you know you're protecting it?
@@ -103,3 +103,31 @@ E﻿xamples:
 ## C﻿hoosing the Right Methodology
 
 ### P﻿ASTA
+
+*Process for Attack Simulation and Threat Analysis*
+
+Process:
+
+1. D﻿efine Business Objectives
+2. D﻿efine Technical Scope
+3. D﻿ecompose Application
+4. A﻿nalyze Threats
+5. I﻿dentify Vulnerabilities
+6. E﻿numerate Attacks
+7. P﻿erform Impact Analysis
+
+### M﻿icrosoft Threat Modeling
+
+* T﻿hreat modeling framework
+* S﻿ometimes incorrectly named STRIDE
+
+  * S﻿TRIDE is a threat classification system used within the Microsoft threat modeling methodology
+* F﻿ocuses on technical risk
+* D﻿eveloper-driven
+* A﻿pplication-centric approach
+
+**S﻿teps**: I﻿dentify Assets > Create Architecture Overview > Decompose Application > Identify Threats > Document Threats > Rate Threats
+
+### OCTAVE
+
+*O﻿perationally Critical Threat, Asset and Vulnerability Evaluation*
