@@ -12,7 +12,7 @@ description: Looking to scan an IP or a domain? You can't just spin up a Kali
 
 ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but I found it in /etc directory.
 
-###  ﻿
+#### ﻿ 
 
 #### Step 1
 
