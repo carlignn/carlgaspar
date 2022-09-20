@@ -8,9 +8,9 @@ tags:
   - write-up
 description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans
 ---
-## Introduction
+## The What, Why, Who and When
 
-### W﻿hat
+### W﻿hat Is Threat Modeling
 
 Threat Modeling is a process of systematically listing all potential ways one can attack an application.
 
@@ -26,7 +26,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * A﻿ttack surface - anything that can be obtained, used, or attacked by a threat actor
 * Risk = Impact * Likelihood
 
-### W﻿hy
+### W﻿hy Should One Perform Threat Modeling
 
 * P﻿ro-active approach - security upfront
 * E﻿fficient - the sooner a bug or a vulnerability is discovered in the SDLC, the cheaper it is
@@ -44,7 +44,7 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 
 \*﻿ Threat modeling is a collaborative and repeatable process
 
-### Who
+### Who Should Perform Threat Modeling
 
 * System Architect - somebody who knows how the system ha been designed and how the data flows across
 * Developer - somebody who knows the intricate details on how the application was built and the detailed interactions between components
@@ -53,7 +53,7 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 
 \* The best way to implement threat modeling is to make as little changes to the process as possible.
 
-### W﻿hen
+### W﻿hen Should One Perform Threat Modeling
 
 * A﻿s early as possible
 * R﻿equirements phase
@@ -62,3 +62,22 @@ The ﻿ultimate objective of threat modeling is risk reduction.
 \*﻿ In general, early on in the process
 
 ## Right Approach
+
+#### A﻿sset-centric Approach
+
+A﻿lso called **Risk-centric Approach.**
+
+1. C﻿reate lists of assets
+2. D﻿raw assets, components and data flows
+3. F﻿or each element, check for threats
+
+E﻿xamples:
+
+* P﻿ASTA - Process for Attack Simulation and Analysis
+* T﻿RIKE - dated threat modeling technology with accompanying tool
+
+#### A﻿ttacker-centric Approach
+
+#### A﻿pplication-centric Approach
+
+> I﻿f you don't know what to protect, how do you know you're protecting it?
