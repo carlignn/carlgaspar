@@ -6,9 +6,11 @@ tags:
   - devsecops
   - blueteam
   - write-up
-description: Write-up of the...
+description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans
 ---
 ## Introduction
+
+### W﻿hat
 
 Threat Modeling is a process of systematically listing all potential ways one can attack an application.
 
@@ -16,14 +18,47 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Looking at attacks - actively looking at what can be abused
 * Probable threat scenarios - list of threats
 
-## Definitions
+#### Definitions
 
 * Weakness - software defect, bug
 * Vulnerability - weakness that can be exploited
 * Attack/Incident - target, attack vector, threat actor
+* A﻿ttack surface - anything that can be obtained, used, or attacked by a threat actor
+* Risk = Impact * Likelihood
 
-Proactive approach, enhances application knowledge
+### W﻿hy
 
-The 'who and when' should fit the organization
+* P﻿ro-active approach - security upfront
+* E﻿fficient - the sooner a bug or a vulnerability is discovered in the SDLC, the cheaper it is
+* P﻿rioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
+* B﻿etter understanding - will give the developers a whole overview of the system
+
+The ﻿ultimate objective of threat modeling is risk reduction.
+
+#### O﻿ther methodologies that can perform risk reduction aside from Threat Modeling
+
+* A﻿rchitectural analysis
+* S﻿ource code analysis
+* V﻿ulnerability scanning
+* P﻿enetration testing
+
+\*﻿ Threat modeling is a collaborative and repeatable process
+
+### Who
+
+* System Architect - somebody who knows how the system ha been designed and how the data flows across
+* Developer - somebody who knows the intricate details on how the application was built and the detailed interactions between components
+* Tester - somebody who knows the requirements and what the application is expected to do
+* Security Professional - somebody who knows specific attack factors and think like an attacked
+
+\* The best way to implement threat modeling is to make as little changes to the process as possible.
+
+### W﻿hen
+
+* A﻿s early as possible
+* R﻿equirements phase
+* D﻿esign phase
+
+\*﻿ In general, early on in the process
 
 ## Right Approach
