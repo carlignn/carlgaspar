@@ -172,3 +172,7 @@ E﻿xamples:
 
 * Best methodology depends on team, ﻿organization and goal
 * Recommendations: ﻿Asset-centric: PASTA && ﻿Application-centric: Microsoft Threat Modeling
+
+## R﻿eferences
+
+* [﻿Threat Modeling Fundamentals by Peter M﻿osmans on Pluralsight](<* https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents>)
