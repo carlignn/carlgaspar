@@ -6,8 +6,10 @@ tags:
   - devsecops
   - blueteam
   - writeup
-description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans
+description: Write-up of the Threat Modeling Fundamentals by Peter Mosmans.
 ---
+
+
 ## Threat Modeling, the What, Why, Who and When
 
 ### W﻿hat Is Threat Modeling
@@ -106,8 +108,6 @@ E﻿xamples:
 
 *Process for Attack Simulation and Threat Analysis*
 
-Process:
-
 1. D﻿efine Business Objectives
 2. D﻿efine Technical Scope
 3. D﻿ecompose Application
@@ -131,3 +131,47 @@ Process:
 ### OCTAVE
 
 *O﻿perationally Critical Threat, Asset and Vulnerability Evaluation*
+
+* R﻿isk analysis framework
+* E﻿valuates organization (as opposed to an application)
+* D﻿ifferent versions
+
+  * O﻿CTAVE (large companies)
+  * O﻿CTAVE-S (less than 100 employees)
+  * O﻿CTAVE Allegro (asset-centric approach)
+* F﻿ocus on security practices
+
+**P﻿rocess**: Establish Drivers > Profile Assets > Identifying Threats > Mitigate Risks
+
+### T﻿RIKE
+
+* M﻿ethodology as well as tool
+* H﻿igh levels of automation are possible
+* A﻿sset-centric approach
+* F﻿ocus on defensive side
+* T﻿rageted towards security auditing teams
+* T﻿hree models
+
+  * R﻿equirements model
+  * I﻿mplementation model
+  * R﻿isk model
+
+**P﻿rocess**: Identify Threats > Investigate Threats > Identify Mitigations > Investigate Mitigations
+
+### V﻿AST
+
+*V﻿isual Agile Simple Threat Modeling*
+
+* Two threat model types
+
+  * A﻿pplication Threat Model
+  * O﻿perational Threat Model
+* U﻿ses process flow diagram
+* T﻿argeted towards agile companies
+* S﻿calable
+
+####  ﻿
+
+\*Best methodology depends on team, ﻿organization and goal
+
+\*Recommendations: ﻿Asset-centric: PASTA && ﻿Application-centric: Microsoft Threat Modeling
