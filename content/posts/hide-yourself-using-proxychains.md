@@ -190,21 +190,21 @@ You'll see all the chains that you can select from, how they works are described
 
 #### Step 2
 
-Uncomment the dynamic_chain (line 10) and comment static_chain (line 18) by using the pound (#) sign. This way, the connection will proceed to the next address in case prior fails.
+Uncomment the `dynamic_chain` (line 10) and comment `static_chain` (line 18) by using the pound (#) sign. This way, the connection will proceed to the next address in case prior fails.
 
 #### Step 3
 
-Uncomment the default IP for Tor (line 161) then add your proxies below it (online search: free proxy servers list). You can see the example at line 145. It is advisable to add more than one proxy. Save the file afterwards.
+Uncomment the default IP for Tor `socks4         127.0.0.1 9050` (line 161) then add your proxies below it (online search: free proxy servers list). You can see the example at line 145. It is advisable to add more than one proxy. Save the file afterwards.
 
 ## Run ProxyChains
 
-This is how you run ProxyChains:
+This is how you run ProxyChains.
 
 ```shell
 proxychains <servicename>
 ```
 
-Example:
+Here are some examples.
 
 ```shell
 proxychains firefox google.com
