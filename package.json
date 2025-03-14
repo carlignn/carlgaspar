@@ -6,7 +6,7 @@
   "author": "Carl Gaspar <carlgaspar@protonmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",
-    "gatsby": "^4.0.0",
+    "gatsby": "^5.6.0",
     "gatsby-plugin-feed": "^3.14.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-image": "^1.0.0",
@@ -25,7 +25,7 @@
     "gatsby-transformer-remark": "^4.0.0",
     "gatsby-transformer-sharp": "^4.8.0",
     "netlify-cms-app": "^2.14.26",
-    "prismjs": "^1.27.0",
+    "prismjs": "^1.30.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
